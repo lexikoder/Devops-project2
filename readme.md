@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](./images/image.png)
 
 ## Introduction
 Kubernetes has become the go-to solution for orchestrating containerized applications, enabling scalability, efficiency, and automation in modern application deployments. Amazon Elastic Kubernetes Service (EKS) further simplifies this by providing a managed Kubernetes environment, reducing the operational overhead of maintaining Kubernetes clusters. But as powerful as EKS is, provisioning and managing its infrastructure manually can be time-consuming, error-prone, and challenging to maintain at scale.
@@ -66,15 +66,15 @@ aws eks update-kubeconfig --name my-cluster1 --region us-west-2
 
 ## RESULT
 ### vpc
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 ### eks cluser
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 ### worker node
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 ### get kube config file from eks cluster
-![alt text](image-4.png)
+![alt text](./images/image-4.png)
 ### check all worker nodes with kubectl
-![alt text](image-5.png)
+![alt text](./images/image-5.png)
 
 
 
