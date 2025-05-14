@@ -3,7 +3,7 @@
 ## Introduction
 Kubernetes has become the go-to solution for orchestrating containerized applications, enabling scalability, efficiency, and automation in modern application deployments. Amazon Elastic Kubernetes Service (EKS) further simplifies this by providing a managed Kubernetes environment, reducing the operational overhead of maintaining Kubernetes clusters. But as powerful as EKS is, provisioning and managing its infrastructure manually can be time-consuming, error-prone, and challenging to maintain at scale.
 
-This is where Terraform comes in—a powerful Infrastructure as Code (IaC) tool that allows you to define, provision, and manage your cloud infrastructure in a consistent and repeatable way. By using Terraform, you can automate the deployment of your EKS clusters, ensuring they are configured correctly and are easily reproducible.
+This is where Terraform comes in a powerful Infrastructure as Code (IaC) tool that allows you to define, provision, and manage your cloud infrastructure in a consistent and repeatable way. By using Terraform, you can automate the deployment of your EKS clusters, ensuring they are configured correctly and are easily reproducible.
 
 ## Step-by-Step Guide to Setting Up an EKS Cluster with Terraform
 
